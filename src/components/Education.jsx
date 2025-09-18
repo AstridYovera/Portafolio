@@ -9,28 +9,12 @@ function Trajectory() {
       tags: ["Cibertec", "Tecnología"],
     },
     {
-      role: "Responsable de Convenios",
-      company: "Comunidad La Teoría en la Práctica",
-      date: "2024",
-      description:
-        "Gestión y establecimiento de convenios estratégicos para fortalecer la comunidad.",
-      tags: ["Voluntariado", "Gestión"],
-    },
-    {
       role: "Talento Guía",
       company: "PRONABEC - Talentos en Acción",
       date: "2023",
       description:
         "Mentoría y acompañamiento a estudiantes en su desarrollo académico y personal.",
       tags: ["Mentoría", "Liderazgo"],
-    },
-    {
-      role: "Atención al Cliente y Despacho",
-      company: "Lumbreras",
-      date: "2025",
-      description:
-        "Atención en feria escolar, asesoría en compra de material educativo y gestión de despacho.",
-      tags: ["Atención al Cliente"],
     },
     {
       role: "Prácticas en Marketing",
@@ -47,6 +31,22 @@ function Trajectory() {
       description:
         "Soporte técnico en implementación y mantenimiento de soluciones tecnológicas.",
       tags: ["Soporte Técnico", "TI"],
+    },
+    {
+      role: "Responsable de Convenios",
+      company: "Comunidad La Teoría en la Práctica",
+      date: "2024",
+      description:
+        "Gestión y establecimiento de convenios estratégicos para fortalecer la comunidad.",
+      tags: ["Voluntariado", "Gestión"],
+    },
+    {
+      role: "Atención al Cliente y Despacho",
+      company: "Lumbreras",
+      date: "2025",
+      description:
+        "Atención en feria escolar, asesoría en compra de material educativo y gestión de despacho.",
+      tags: ["Atención al Cliente"],
     },
   ];
 

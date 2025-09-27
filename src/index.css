@@ -996,6 +996,10 @@ p {
     height: 200px;
   }
 
+  /* Projects */
+  .projects-grid {
+    gap: 1rem;
+  }
   .project-card {
     min-height: auto;
   }

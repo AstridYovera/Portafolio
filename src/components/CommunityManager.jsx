@@ -14,7 +14,7 @@ function CommunityManager() {
   ];
 
   return (
-    <section id="#cm" className="projects-section">
+    <section id="cm" className="projects-section">
       <div className="projects-header">
         <h3 className="projects-heading">
          <span className="highlight">Community Manager</span>

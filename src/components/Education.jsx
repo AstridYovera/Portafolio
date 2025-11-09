@@ -48,6 +48,14 @@ function Trajectory() {
         "Atención en feria escolar, asesoría en compra de material educativo y gestión de despacho.",
       tags: ["Atención al Cliente"],
     },
+    {
+      role: "Gestión de Redes y Marca Personal",
+      company: "B&B",
+      date: "2025",
+      description:
+        "Gestiono redes sociales, diseño contenido visual y desarrollo estrategias digitales, además de ser fundadora de mi propia marca.",
+      tags: ["Community Manager y Fundadora"],
+    },
   ];
 
   return (
